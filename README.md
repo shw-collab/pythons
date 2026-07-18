@@ -1,4 +1,11 @@
 # pythons
-This file contains code on python functions,bank problem can be solved using python understanding
-investment problem too and salary related to look into it's prob what to resolve
-And we have space num too.
+Collection of my Python practice codes while learning fundamentals.
+
+Contains:
+- bank_probs.py - bank related problem solving
+- functions.py - practice of functions
+- investment.py - investment calculation
+- mini_project.py - mini calculator project
+- salary.py, space_num.py
+
+Language: Python
